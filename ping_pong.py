@@ -1,3 +1,4 @@
+#BADREDDINE HAMID
 #hello horld this is a simple ping pong game by python | 
 # i wish to send my your opinion about this and what should add in this game |
 
